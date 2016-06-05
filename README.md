@@ -4,16 +4,17 @@ DropBox Backup Tool
 This plugin provides the user to upload backup files to DropBox using DropBox PHP SDK 1.6.
 
 You can upload:
-1. Source Code
-2. Database
-3. Data Folder
+* Source Code
+* Database
+* Data Folder
 
 You can schedule backup in following ways
-1. Weekly
-2. Monthly
-3. Yearly
+* Weekly
+* Monthly
+* Yearly
 
-Note: 
+Note:
+
 This plugin is will require lot of resources of your server to zip and upload the file to dropbox. Make sure you run the script on a non-productive hour.
 
 
